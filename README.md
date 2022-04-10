@@ -97,6 +97,16 @@ Tools which focus on specific types of vulnerabilities.
 | [Comix](https://github.com/commixproject/commix) | [![Last Commit](https://img.shields.io/github/last-commit/commixproject/commix)](https://github.com/commixproject/commix/commits) | [![Contributors](https://img.shields.io/github/contributors/commixproject/commix)](https://github.com/commixproject/commix/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/commixproject/commix)](https://github.com/commixproject/commix/stargazers) |
 | [Xsscrapy](https://github.com/DanMcInerney/xsscrapy) | [![Last Commit](https://img.shields.io/github/last-commit/DanMcInerney/xsscrapy)](https://github.com/DanMcInerney/xsscrapy/commits) | [![Contributors](https://img.shields.io/github/contributors/DanMcInerney/xsscrapy)](https://github.com/DanMcInerney/xsscrapy/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/DanMcInerney/xsscrapy)](https://github.com/DanMcInerney/xsscrapy/stargazers) |
 
+## Hacking focused helpers
+
+Tools which focus on specific types of vulnerabilities.
+
+| Main Site | Last Commit | Committers | Stars | Desc |
+| --- | --- | --- | --- |
+| [qsreplace](https://github.com/tomnomnom/qsreplace) | [![Last Commit](https://img.shields.io/github/last-commit/tomnomnom/qsreplace)](https://github.com/sqlmapproject/tomnomnom/qsreplace) | [![Contributors](https://img.shields.io/github/contributors/tomnomnom/qsreplace)](https://github.com/tomnomnom/qsreplace/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/tomnomnom/qsreplace)](https://github.com/tomnomnom/qsreplace/stargazers) | Accept URLs on stdin, replace all query string values with a user-supplied value, only output each combination of query string parameters once per host and path. |
+
+
+
 ## Links
 
 * [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) - includes commercial tools as well
