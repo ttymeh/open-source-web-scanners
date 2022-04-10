@@ -102,7 +102,7 @@ Tools which focus on specific types of vulnerabilities.
 Tools which focus on specific types of vulnerabilities.
 
 | Main Site | Last Commit | Committers | Stars | Desc |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | [qsreplace](https://github.com/tomnomnom/qsreplace) | [![Last Commit](https://img.shields.io/github/last-commit/tomnomnom/qsreplace)](https://github.com/sqlmapproject/tomnomnom/qsreplace) | [![Contributors](https://img.shields.io/github/contributors/tomnomnom/qsreplace)](https://github.com/tomnomnom/qsreplace/graphs/contributors) | [![Stars](https://img.shields.io/github/stars/tomnomnom/qsreplace)](https://github.com/tomnomnom/qsreplace/stargazers) | Accept URLs on stdin, replace all query string values with a user-supplied value, only output each combination of query string parameters once per host and path. |
 
 
